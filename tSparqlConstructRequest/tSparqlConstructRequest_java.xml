@@ -70,6 +70,7 @@
         <ITEM NAME="RDFXML" VALUE="application%2Frdf%2Bxml"/>
         <ITEM NAME="N3" VALUE="text%2Frdf%2Bn3"/>
         <ITEM NAME="NT" VALUE="text%2Fplain"/>
+        <ITEM NAME="CSV" VALUE="text%2Fcsv"/>
         <ITEM NAME="JSON" VALUE="application%2Fsparql-results%2Bjson"/>
       </ITEMS>
     </PARAMETER>
